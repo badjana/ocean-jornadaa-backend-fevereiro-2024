@@ -1,0 +1,18 @@
+{
+  "name": "ocean-jornada-backend-fevereiro-2024",
+  "version": "1.0.0",
+  "description": "Projeto com NodeJS e Express feito para a Jornada Backend do Samsung Ocean em Fevereiro de 2024.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Paulo Salvatore",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

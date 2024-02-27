@@ -1,2 +1,2 @@
-# ocean-jornadaa-backend-fevereiro-2024
-Projeto com NodeJS e Express feito pra Jornada Backend 2024
+# ocean-jornada-backend-fevereiro-2024
+Projeto com NodeJS e Express feito para a Jornada Backend do Samsung Ocean em Fevereiro de 2024.
